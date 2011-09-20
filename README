@@ -1,4 +1,9 @@
 
-dandies.org has a great list of python scripts for doing some dandy grey-hat things.  This repository is a place to work on those tool (and similar tools) in a common repository.
+dandies.org has a great list of python scripts for doing some dandy grey-hat things.  This repository is a place to work on those tools (and similar tools) in a common repository.
 
+Plan:
+
+Clean up scripts
+Make them loadable as libraries.
+Write some tests for these scripts. 
 
