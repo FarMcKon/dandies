@@ -1,0 +1,84 @@
+============================================================
+http://google.com
+============================================================
+Date: Fri, 23 Sep 2011 19:21:06 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=90a1e0c8bea1ceb4:FF=0:TM=1316805666:LM=1316805666:S=KhU0f7vY9vtNA2AV; expires=Sun, 22-Sep-2013 19:21:06 GMT; path=/; domain=.google.com
+Set-Cookie: NID=51=ZBMVESd48tl2SviZu4JzF91wPjN5oYVn5AMIuoNSeTS7FaulEFPEtqHFbiN7XDuMKeqYsO25hoijR9AMqyWk25rLi9r9FkwjITifuosfUvYVRN2cEYaGRIxFQzayX1Ny; expires=Sat, 24-Mar-2012 19:21:06 GMT; path=/; domain=.google.com; HttpOnly
+Server: gws
+X-XSS-Protection: 1; mode=block
+Connection: close
+============================================================
+http://yahoo.com
+============================================================
+Date: Fri, 23 Sep 2011 19:21:07 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: private
+Set-Cookie: IU=deleted; expires=Thu, 23-Sep-2010 19:21:06 GMT; path=/; domain=.yahoo.com
+Set-Cookie: PH=deleted; expires=Thu, 23-Sep-2010 19:21:06 GMT; path=/; domain=.yahoo.com
+Set-Cookie: fpc=d=sduaej1Z82sdrGdp80rYUP8jAJh7r6BZEB9BKLs.R2ohQFW87vqsMbTqNgVwhY8o6zFlbSN6SdnlCsOCgLq2cYuDTYhFuvFE_WLMC0xQO61TZvaG0DuUeoKx37xAvq0nHYPuBHRWLgDe6M6Q7Egdi.qdQBXOC2OIbwzNTSvAcB0rY5ije3Z00ylzVpSTG5mYArO2ADk-&v=2; expires=Sat, 22-Sep-2012 19:21:07 GMT; path=/; domain=www.yahoo.com
+Set-Cookie: fpps=deleted; expires=Thu, 23-Sep-2010 19:21:06 GMT; path=/; domain=www.yahoo.com
+Set-Cookie: FPCK3=AgBOfNwQAFKCEAByDxAAa9AQAHWrEABsYhAASgs=; expires=Sun, 23-Oct-2011 19:21:07 GMT; path=/; domain=www.yahoo.com
+Set-Cookie: CH=deleted; expires=Thu, 23-Sep-2010 19:21:06 GMT; path=/; domain=www.yahoo.com
+Set-Cookie: CH=AgBOfNwQACAEEAAacRAAMzgQAAX/EAAcnxAAJpwQAAvWEAAICRAAKFYQACmy; expires=Sun, 23-Oct-2011 19:21:07 GMT; path=/; domain=.yahoo.com
+Set-Cookie: fpt=d=QpNl9RHXelwOdtBtwfUpjrO1Y.ZerXMmsJvZsJpj1laexFHKBJ7KBjMnFhjoSn0gb0O4iQvjPc.zoQK6eSxAICQwGCwHLavKuy_30uMtt63Z7Ff4864qsYBypeU1TbdAuwXDuCjhIotsSLSyjY0ZkE8S7sb113DT0MhWnDFdDAJAH2OT_xMVllTvsrD2VuUEJ0DAJJ05JTfzN.VicYsS3290Rlb5DAx7sv4LacbUw3iwctfMjMAYs79N1Ildegz9cBYNBAGOR3mdrXtL6ovkQa9rqoAIi8CbJMTzHm8Zcf5ZDj1rK2.HCQDuVLSOV.l2b9EZNePGb.wWx5HiWScaIcUg3H6HgiO3zbFcQWkUoqMhvzbKW_huYVelUjElhKvVMgXoe6wlVbV1vfdfRjTC4_gPHyJx7dezIlqYQa0fS4RzD6xuKnccRI2WBNlvpng.9W0XvPL8Q9pmuvxC1HB7.CYcLtB6tmfuVOokdbU1_OG2dN.s3Yk_rU3LmxC3XSh7IOcwhw--&v=1; path=/; domain=www.yahoo.com
+Set-Cookie: fpc_s=d=fA77VcNZ82vQg9.fpU1CqalCeOF2KUVFIUL4VxJVrL1LTkweGCHS_yoZJieBS_m5g52br.uj8HE6gH21uWMenOohaMdht1IsLzEnooZ1.Rb_cid8FMX24rrlL.hz0RpWSosfwscbKqBEllJN5t3xOy2c7dLnLkDo4rLuMKYn38hbi_PtBh45L_F_lQV.5JzJ5TaOUeU4IAacU7OodPiT844SU8w58FlQtCEA2wEStpU7DI54Ia27D0aXClHS8K4teBO8aFWJwTaXabNuRov52ZPUxWeKCKB0j6hiALyHRdFv3A.O3yJhVhUIn4Q-&v=2; path=/; domain=www.yahoo.com
+Vary: Accept-Encoding
+Content-Type: text/html;charset=utf-8
+Age: 0
+Connection: close
+Server: YTS/1.20.0
+============================================================
+http://huffingtonpost.com
+============================================================
+Server: Apache
+Content-Length: 282213
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Cache-Control: max-age=12
+Date: Fri, 23 Sep 2011 19:21:08 GMT
+Connection: close
+============================================================
+http://digg.com
+============================================================
+Date: Fri, 23 Sep 2011 19:21:08 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.9-digg8
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Set-Cookie: traffic_control=f00100000060910000168986600130000000084302a000010004008%3A331%3A112; expires=Sat, 24-Sep-2011 19:21:09 GMT; path=/; domain=digg.com
+Set-Cookie: imp_id=28ae7adb72a7ba3189a801c1f754b5d9b6b89942a20ee4e5aef82aadd2ea012f; expires=Sat, 24-Sep-2011 19:21:09 GMT; path=/; domain=digg.com
+Set-Cookie: d=ef59b2197c8b94c415e8dfae109db4be34a294133ce90fc23dfa629c2e3a4f6c; expires=Thu, 23-Sep-2021 05:28:49 GMT; path=/; domain=.digg.com
+X-Digg-Time: D=299270 10.2.129.76
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=10000
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+============================================================
+http://twitter.com
+============================================================
+Date: Fri, 23 Sep 2011 19:21:09 GMT
+Server: hi
+Status: 200 OK
+X-Transaction: 1316805669-18177-48048
+ETag: "28bcb4fd133cf2611f98355adb1ebcd1"
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Fri, 23 Sep 2011 19:21:09 GMT
+X-Runtime: 0.00885
+Content-Type: text/html; charset=utf-8
+Content-Length: 44744
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Revision: DEV
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+X-MID: f6ada4ccda0b54ca2db507d38cf3d3d3a65a5f1f
+Set-Cookie: k=68.82.23.175.1316805669712612; path=/; expires=Fri, 30-Sep-11 19:21:09 GMT; domain=.twitter.com
+Set-Cookie: guest_id=v1%3A131680566971548639; domain=.twitter.com; path=/; expires=Mon, 23 Sep 2013 07:21:09 GMT
+Set-Cookie: _twitter_sess=BAh7CDoPY3JlYXRlZF9hdGwrCFTzu5cyAToHaWQiJWE1OWJkNWY4ZTliZDg4%250AZDY4MGI3MWUwYzUwYzA2OGE2IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy%250AOjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--03335d3a83ded0b6f5cbe28b417033a28352902e; domain=.twitter.com; path=/; HttpOnly
+X-XSS-Protection: 1; mode=block
+Vary: Accept-Encoding
+Connection: close

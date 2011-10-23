@@ -1,28 +1,32 @@
 #!/usr/bin/python
-#This is a CGI scanner, searches for common vulnerable 
-#dirs and files. 
-#Save the bins.txt to the dir your 
-#running this. http://www.darkc0de.com/scanners/bins.txt
-#Or use your own list and save it bins.txt.
-#
-#Changelog v1.3: Lets you declare your own vuln path list and lets you save
-#successful requests to a file, added exceptions to catch errors
-#
-#Changelog v1.2: Added proxy support, verbose mode, and fixed 
-# minor syntax problems
-#
-#
-#Changelog v1.1: Update: Faster, 2500 more vuln dir/files,
-# saves found vulns to a list and prints them at the end.
-# Also fixed some error handling so it shouldn't stop at any time and 
-# I had an extra \n newline where it shouldn't be.
-#
+"""
+This is a CGI scanner, searches for common vulnerable 
+dirs and files. 
+Save the bins.txt to the dir your 
+running this. http://www.darkc0de.com/scanners/bins.txt
+Or use your own list and save it bins.txt.
 
-#
-##http://www.darkc0de.com
-##d3hydr8[at]gmail[dot]com
+Changelog v1.3: Lets you declare your own vuln path list and lets you save
+successful requests to a file, added exceptions to catch errors
 
-import sys, httplib, time, socket
+Changelog v1.2: Added proxy support, verbose mode, and fixed 
+ minor syntax problems
+
+
+Changelog v1.1: Update: Faster, 2500 more vuln dir/files,
+ saves found vulns to a list and prints them at the end.
+ Also fixed some error handling so it shouldn't stop at any time and 
+ I had an extra \n newline where it shouldn't be.
+
+
+http://www.darkc0de.com
+d3hydr8[at]gmail[dot]com
+"""
+
+import sys
+import httplib
+import time
+import socket
 
 def title():
 	print "\n\t   d3hydr8[at]gmail[dot]com CGIscanner v1.3"
@@ -175,6 +179,4 @@ else:
 			output_file.writelines("[+]"+x+"\n")
 		print "\n[!] ",x
 print "\n[-] Scan completed at",timer(),"\n"
-
-
 	

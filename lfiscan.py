@@ -1,10 +1,17 @@
 #!/usr/bin/python
-#This is a Local File Inclusion scanner.
-#
-##http://www.darkc0de.com
-##d3hydr8[at]gmail[dot]com
+"""
+This is a Local File Inclusion scanner.
+http://www.darkc0de.com
+d3hydr8[at]gmail[dot]com
+"""
 
-import sys, httplib, time, socket, sets, urllib2, re
+import sys
+import httplib
+import time
+import socket
+import sets
+import urllib2
+import re
 
 def main(host):
 	

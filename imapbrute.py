@@ -3,7 +3,12 @@
 #http://www.darkc0de.com
 #d3hydr8[at]gmail[dot]com
 
-import threading, time, random, sys, imaplib, socket
+import threading
+import time
+import random
+import sys
+import imaplib
+import socket
 from imaplib import IMAP4
 from copy import copy
 

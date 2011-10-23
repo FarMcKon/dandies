@@ -3,26 +3,39 @@
 #http://www.darkc0de.com
 #d3hydr8[at]gmail[dot]com
 
-import threading, time, random, sys, ftplib
+import threading
+import time
+import random
+import sys
+import ftplib
+
 from ftplib import FTP
 from copy import copy
 
-if len(sys.argv) !=4:
-	print "Usage: ./ftpbrute.py <server> <userlist> <wordlist>"
-	sys.exit(1)
+def check_usage():
+	if len(sys.argv) !=4:
+		print "Usage: ./ftpbrute.py <server> <userlist> <wordlist>"
+		return
 
-try:
-  	users = open(sys.argv[2], "r").readlines()
-except(IOError): 
-  	print "Error: Check your userlist path\n"
-  	sys.exit(1)
-  
-try:
-  	words = open(sys.argv[3], "r").readlines()
-except(IOError): 
-  	print "Error: Check your wordlist path\n"
-  	sys.exit(1)
+def open_userlist():
+	try:
+		users = open(sys.argv[2], "r").readlines()
+	except(IOError): 
+		print "Error: Check your userlist path\n"
+		return
 
+def open_wordlist():  
+	try:
+		words = open(sys.argv[3], "r").readlines()
+	except(IOError): 
+		print "Error: Check your wordlist path\n"
+		return
+
+check_usage()
+open_userlist()
+open_wordlist()
+
+#Introduction
 print "\n\t   d3hydr8[at]gmail[dot]com ftpBruteForcer v1.0"
 print "\t--------------------------------------------------\n"
 print "[+] Server:",sys.argv[1]
